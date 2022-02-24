@@ -57,6 +57,8 @@ class AppGui {
 				move_down: 'DOWN',
 				page_down: 'PAGE_DOWN',
 				page_up: 'PAGE_UP',
+				five_up: '5_UP',
+				five_down: '5_DOWN',
 			};
 
 			this.renderer_ = null;
