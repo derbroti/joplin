@@ -55,6 +55,8 @@ class AppGui {
 				focus_previous: 'SHIFT_TAB',
 				move_up: 'UP',
 				move_down: 'DOWN',
+				top: 'TOP',
+				bottom: 'BOTTOM',
 				page_down: 'PAGE_DOWN',
 				page_up: 'PAGE_UP',
 				five_up: '5_UP',
